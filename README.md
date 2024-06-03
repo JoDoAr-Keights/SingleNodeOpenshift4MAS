@@ -45,6 +45,21 @@ Note down the MAC address you receive for the new NIC, in this example it is 02:
 <img width="1237" alt="Screenshot_2024-06-03_12 26 34" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/d516c683-0b8b-4f87-ae00-e14f077f1043">
 
 **time to click Create**
+Machine should now be created and be in state "Stopped"
+
+Select OpenShift in the Red Hat Hybrid Cloud Console
+<img width="827" alt="Screenshot_2024-06-03_14 20 36" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/4740ef10-5e2d-4aba-8d48-b5c34e93ea1c">
+
+Click Create Cluster
+<img width="647" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/9818dd07-080f-47e9-bcca-876c7a273c99">
+
+<img width="1589" alt="Screenshot_2024-06-03_14 25 57" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/91f885ec-eaca-45cf-bb5f-8822c6fa2227">
+
+Select Internactive
+<img width="663" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/23c102e0-bbd2-4303-8395-294186c3a9c3">
+
+<img width="995" alt="Screenshot_2024-06-03_14 38 06" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/2aad57ac-b2f8-4b81-b0fa-32641182d2f4">
+
 
 
 

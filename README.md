@@ -40,6 +40,12 @@ Give it a nice name and ensure that you select "nad" as Network, and "Bridge" as
 Note down the MAC address you receive for the new NIC, in this example it is 02:8e:f3:00:00:32
 <img width="1327" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/1c83e9a7-e5f3-4215-96d9-ca25dc64563d">
 
+...and uncheck "Start this VirtualMachine after creation"...
+
+<img width="1237" alt="Screenshot_2024-06-03_12 26 34" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/d516c683-0b8b-4f87-ae00-e14f077f1043">
+
+**time to click Create**
+
 
 
 

@@ -55,7 +55,9 @@ Click Create Cluster
 
 <img width="1589" alt="Screenshot_2024-06-03_14 25 57" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/91f885ec-eaca-45cf-bb5f-8822c6fa2227">
 
-Select Internactive
+---
+
+Select Interactive<br>
 <img width="663" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/23c102e0-bbd2-4303-8395-294186c3a9c3">
 
 <img width="995" alt="Screenshot_2024-06-03_14 38 06" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/2aad57ac-b2f8-4b81-b0fa-32641182d2f4">

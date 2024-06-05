@@ -60,7 +60,70 @@ Click Create Cluster
 Select Interactive<br>
 <img width="663" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/23c102e0-bbd2-4303-8395-294186c3a9c3">
 
+---
+
 <img width="995" alt="Screenshot_2024-06-03_14 38 06" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/2aad57ac-b2f8-4b81-b0fa-32641182d2f4">
+
+---
+
+When installing in a Fusion HCI (and probably any other Hyper-Converged Infrastructure) add the VLAN ID. Enter a DNS, recommend to use Quad 9 (9.9.9.9) which is a safer DNS service.
+<img width="1385" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/ebc20ce8-d901-4b13-82e8-8ad2c5092739">
+and click Next
+
+---
+
+Enter the MAC address you received before and an IP address.
+![Screenshot_2024-06-05_10 14 46](https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/8546ffe6-2848-4991-9293-738442b24390)
+
+---
+
+Select to install the Logocal Volume Manager Operator
+![image](https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/aa32aeca-50c6-431c-a6cb-142e1fa0d462)
+click Next
+
+---
+
+Click Add host
+![image](https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/b492e6c9-3c28-4bb3-8d82-738574667cb6)
+
+---
+
+and build a boot CD-ROM (Full image file) to be mounted as boot media when starting the machine, click Generate and you will get a Discovery ISO URL, copy it
+![image](https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/92d8efa1-0ee0-433b-baca-c3fe5f726b35)
+
+---
+
+Move to the machine you have prepared on the Fusion HCI and add a disk
+<img width="1355" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/dcb0f7bb-30ad-4522-88cb-12271af89a45">
+
+---
+
+create a new CD-ROM and set it first in boot order
+<img width="561" alt="Screenshot_2024-06-05_10 26 20" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/13c539bb-f65e-498d-a424-4f30de340497">
+
+---
+
+<img width="262" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/dba0eb3a-0f7a-4ed4-b503-8daf87f72a20"><br>
+wait for provisioning to be finished, ie that OSV has downloaded the ISO and stored in onto a virtual CD-ROM
+<img width="396" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/6c79e1d6-fc3f-467e-9807-629062c60b59"><br>
+after a couple of minutes...
+<img width="380" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/5f21a83f-e1ae-47fc-8db8-965c15390e3e">
+
+---
+
+Time to start the new single node openshift server
+<img width="1344" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/9c1a4a7f-dfa2-48e6-aa83-2cca96abdf3e">
+
+---
+
+This is the result of a succesful installation, screenshot is from older installation in order to finalize this documentation
+![image](https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/b0f69ead-167e-4ba1-881a-c68d5de0522a)
+
+
+
+
+
+
 
 
 

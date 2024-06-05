@@ -47,8 +47,12 @@ Note down the MAC address you receive for the new NIC, in this example it is 02:
 **time to click Create**
 Machine should now be created and be in state "Stopped"
 
+---
+
 Select OpenShift in the Red Hat Hybrid Cloud Console
 <img width="827" alt="Screenshot_2024-06-03_14 20 36" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/4740ef10-5e2d-4aba-8d48-b5c34e93ea1c">
+
+---
 
 Click Create Cluster
 <img width="647" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/9818dd07-080f-47e9-bcca-876c7a273c99">

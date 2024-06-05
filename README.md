@@ -10,8 +10,12 @@ This is an example of how to build a single-node openshift cluster on a IBM Fusi
 minimum vCPU's for a single node openshift server is 10 vCPU
 <img width="1337" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/fd78821f-5c3b-4650-8c74-63125f26defb">
 
+---
+
 pick a suitable operating system for the server, RHEL9 is a good choice, it will be replaced by CoreOS during the installation process
 <img width="623" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/e6135c9b-df11-4cd1-bf5a-c3b9c2132c7e">
+
+---
 
 Be sure to uncheck "start this virtual machine after creation" and click Customize
 <img width="909" alt="image" src="https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/bc745616-9afe-4836-9384-18e7677000af">

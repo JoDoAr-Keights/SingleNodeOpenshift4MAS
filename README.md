@@ -119,20 +119,3 @@ Time to start the new single node openshift server
 This is the result of a succesful installation, screenshot is from older installation in order to finalize this documentation
 ![image](https://github.com/DougAtIBM/SingleNodeOpenshift4MAS/assets/18483022/b0f69ead-167e-4ba1-881a-c68d5de0522a)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Skapar en maskin med 32 cpu, 128 GiB mem, 600 gib disk, STARTAR INTE maskinen. Lägger till nätverkskort med rätt IP???, får en Mac-adress
-
-### Create the single-node boot cd-rom image needed when starting the installation
